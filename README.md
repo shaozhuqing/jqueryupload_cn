@@ -5,15 +5,15 @@
 文件上传多个文件选择，拖放支持，进度条，验证和预览图像，音频和视频的jQuery部件。
 支持跨域，分块和可恢复的文件上传和客户端图像缩放。工程与任何服务器端平台（PHP，Python和Ruby on Rails的，java，Node.js，Go等），支持标准的HTML表单文件上传。
 ## 设定
-* [如何设置在您的网站插件](https://github.com/blueimp/jQuery-File-Upload/wiki/Setup)
-* [如何只使用基本的插件(最小安装指南)。](https://github.com/blueimp/jQuery-File-Upload/wiki/Basic-plugin)
+* [如何设置在您的网站插件] (https://github.com/blueimp/jQuery-File-Upload/wiki/Setup)
+* [如何只使用基本的插件(最小安装指南)。] (https://github.com/blueimp/jQuery-File-Upload/wiki/Basic-plugin)
 ## 支持
-* ** [论坛]（https://groups.google.com/d/forum/jquery-fileupload）**
+* **[论坛]（https://groups.google.com/d/forum/jquery-fileupload）**
 **支持请求**和**一般性讨论**关于文件上传插件可以发布的官方
 [论坛]（https://groups.google.com/d/forum/jquery-fileupload）。
 如果您的问题没有直接关系的文件上传插件，你可能有一个更好的机会，得到的答复张贴到堆栈溢出（http://stackoverflow.com/questions/tagged/blueimp+jquery+file-upload ）。
 * 缺陷和功能要求
-**错误**和**特性要求，可报告使用的问题跟踪]（https://github.com/blueimp/jQuery-File-Upload/issues）**。
+**错误**和**[特性要求，可报告使用的问题跟踪]（https://github.com/blueimp/jQuery-File-Upload/issues）**。
 请阅读[发出指引]（https://github.com/blueimp/jQuery-File-Upload/blob/master/CONTRIBUTING.md），然后再发布。
 
 # 特点
@@ -48,12 +48,12 @@
 * **多重和文件的内容流上传：**
   可以上传文件，标准的“多重/表单数据”或文件的内容流（HTTP PUT文件上传）。
 * **兼容任何服务器端应用平台：**
-  工程与任何服务器端平台（PHP，Python和Ruby on Rails的，爪哇，Node.js的，围棋等），支持标准的HTML表单文件上传。
+  工程与任何服务器端平台（PHP，Python和Ruby on Rails，java，Node.js的，Go等），支持标准的HTML表单文件上传。
 
 ## 要求
 * [jQuery的]（http://jquery.com/）1.6 +
 * [jQuery UI的小部件厂]（http://api.jqueryui.com/jQuery.widget/）1.9 +（包含）
-* [jQuery的IFRAME交通插件]（https://github.com/blueimp/jQuery-File-Upload/blob/master/js/jquery.iframe-transport.js）（含）
+* [jQuery的IFRAME交通插件]（https://github.com/blueimp/jQuery-File-Upload/blob/master/js/jquery.iframe-transport.js） （含）
 * [JavaScript的模板引擎]（https://github.com/blueimp/JavaScript-Templates）2.2.1 +（选配）
 * [JavaScript的加载图像功能]（https://github.com/blueimp/JavaScript-Load-Image）1.7.3 +（选配）
 * [JavaScript的帆布斑点功能]（https://github.com/blueimp/JavaScript-Canvas-to-Blob）2.0.6 +（选配）
