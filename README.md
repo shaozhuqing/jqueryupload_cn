@@ -1,13 +1,13 @@
-＃jQuery文件上传插件
-＃＃演示
+# jQuery文件上传插件
+# 演示
 [演示文件上传]（http://blueimp.github.io/jQuery-File-Upload/）
-＃＃说明
+## 说明
 文件上传多个文件选择，拖放支持，进度条，验证和预览图像，音频和视频的jQuery部件。
 支持跨域，分块和可恢复的文件上传和客户端图像缩放。工程与任何服务器端平台（PHP，Python和Ruby on Rails的，java，Node.js，Go等），支持标准的HTML表单文件上传。
-＃＃设定
+## 设定
 * [如何设置在您的网站插件]（https://github.com/blueimp/jQuery-File-Upload/wiki/Setup）
 * [如何只使用基本的插件（最小安装指南）。]（https://github.com/blueimp/jQuery-File-Upload/wiki/Basic-plugin）
-＃＃支持
+## 支持
 *** [论坛]（https://groups.google.com/d/forum/jquery-fileupload）**
 **支持请求**和**一般性讨论**关于文件上传插件可以发布的官方
 [论坛]（https://groups.google.com/d/forum/jquery-fileupload）。
@@ -16,7 +16,7 @@
 **错误**和**特性要求，可报告使用的问题跟踪]（https://github.com/blueimp/jQuery-File-Upload/issues）**。
 请阅读[发出指引]（https://github.com/blueimp/jQuery-File-Upload/blob/master/CONTRIBUTING.md），然后再发布。
 
-＃特点
+# 特点
 ***多文件上传：**
   允许选择多个文件同时上传。
 ***拖放支持：**
@@ -50,7 +50,7 @@
 ***兼容任何服务器端应用平台：**
   工程与任何服务器端平台（PHP，Python和Ruby on Rails的，爪哇，Node.js的，围棋等），支持标准的HTML表单文件上传。
 
-＃＃要求
+## 要求
 * [jQuery的]（http://jquery.com/）诉1.6 +
 * [jQuery UI的小部件厂]（http://api.jqueryui.com/jQuery.widget/）诉1.9 +（包含）
 * [jQuery的IFRAME交通插件]（https://github.com/blueimp/jQuery-File-Upload/blob/master/js/jquery.iframe-transport.js）（含）
@@ -77,9 +77,9 @@ Twitter的[引导]（https://github.com/twitter/bootstrap/）工具包是建立�
 [例如执行]（https://github.com/blueimp/jQuery-File-Upload/blob/master/js/main.js）
 使得使用[result.html]（https://github.com/blueimp/jQuery-File-Upload/blob/master/cors/result.html）起源服务器作为静态重定向页面。
 
-＃＃浏览器
+## 浏览器
 
-＃＃＃桌面浏览器
+### 桌面浏览器
 文件上传插件定期测试最新的浏览器版本，并支持以下的最低版本：
 
 * Google Chrome
@@ -88,7 +88,7 @@ Twitter的[引导]（https://github.com/twitter/bootstrap/）工具包是建立�
 * Opera 11.0+
 * Microsoft Internet Explorer 6.0+
 
-＃＃＃移动浏览器
+### 移动浏览器
 文件上传插件已经过测试，与支持以下移动浏览器：
 
 * Apple Safari on iOS 6.0+
@@ -97,13 +97,13 @@ Twitter的[引导]（https://github.com/twitter/bootstrap/）工具包是建立�
 * Default Browser on Android 2.3+
 * Opera Mobile 12.0+
 
-＃＃＃支持的功能
+### 支持的功能
 每个浏览器版本支持的功能的详细介绍，请看[扩展浏览器的支持信息]（https://github.com/blueimp/jQuery-File-Upload/wiki/Browser-support）。
 
-＃＃许可证
+## 许可证
 [MIT许可]（http://www.opensource.org/licenses/MIT）下发布。
 
-＃＃捐款
+## 捐款
 jQuery的文件上传是免费软件，但你可以捐款支持插件翻译者：
 
 Alipay: [![Alipay](https://www.paypalobjects.com/WEBSCR-640-20110429-1/en_US/i/btn/btn_donateCC_LG.gif)](https://me.alipay.com/shaozhuqing)
