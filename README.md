@@ -1,21 +1,25 @@
 # jQuery文件上传插件
 # 演示
-[演示文件上传]（http://blueimp.github.io/jQuery-File-Upload/） 
+[演示文件上传](http://blueimp.github.io/jQuery-File-Upload/)
+
 ## 说明
 文件上传多个文件选择，拖放支持，进度条，验证和预览图像，音频和视频的jQuery部件。
 
-支持跨域，分块和可恢复的文件上传和客户端图像缩放。工程与任何服务器端平台（PHP，Python和Ruby on Rails的，java，Node.js，Go等），支持标准的HTML表单文件上传。
+支持跨域，分块和可恢复的文件上传和客户端图像缩放。
+
+工程与任何服务器端平台（PHP，Python和Ruby on Rails的，java，Node.js，Go等），支持标准的HTML表单文件上传。
+
 ## 设定
-* [如何设置在您的网站插件] （https://github.com/blueimp/jQuery-File-Upload/wiki/Setup） 
-* [如何只使用基本的插件(最小安装指南)。] （https://github.com/blueimp/jQuery-File-Upload/wiki/Basic-plugin） 
+* [如何设置在您的网站插件](https://github.com/blueimp/jQuery-File-Upload/wiki/Setup)
+* [如何只使用基本的插件(最小安装指南)](https://github.com/blueimp/jQuery-File-Upload/wiki/Basic-plugin)
 ## 支持
-* **[论坛]（https://groups.google.com/d/forum/jquery-fileupload）** 
-  **支持请求** 和 **一般性讨论** 关于文件上传插件可以发布的官方
-[论坛]（https://groups.google.com/d/forum/jquery-fileupload）。
-如果您的问题没有直接关系的文件上传插件，你可能有一个更好的机会，得到的答复张贴到堆栈溢出（http://stackoverflow.com/questions/tagged/blueimp+jquery+file-upload ）。
-* 缺陷和功能要求
-  **错误** 和 **[特性要求，可报告使用的问题跟踪]（https://github.com/blueimp/jQuery-File-Upload/issues）** 。
-请阅读[发出指引]（https://github.com/blueimp/jQuery-File-Upload/blob/master/CONTRIBUTING.md），然后再发布。
+* **[论坛](https://groups.google.com/d/forum/jquery-fileupload)**
+
+**支持请求** 和 **一般性讨论** 关于文件上传插件可以发布的官方[论坛](https://groups.google.com/d/forum/jquery-fileupload)。
+如果您的问题没有直接关系的文件上传插件，你可能有一个更好的机会，得到的答复张贴到堆栈溢出(http://stackoverflow.com/questions/tagged/blueimp+jquery+file-upload)。
+
+* 缺陷和功能要求 **错误** 和 **[特性要求，可报告使用的问题跟踪](https://github.com/blueimp/jQuery-File-Upload/issues)** 。
+请阅读[发出指引](https://github.com/blueimp/jQuery-File-Upload/blob/master/CONTRIBUTING.md)，然后再发布。
 
 # 特点
 * **多文件上传：**
@@ -38,7 +42,7 @@
   的实现是基于HTML5和JavaScript等开放标准和要求没有额外的浏览器插件。
 * **优美的后备旧版浏览器：**
   如果上传文件，通过XMLHttpRequest的支持和传统的浏览器作为后备使用内置页框。
-* ** HTML文件上传表单回退：**
+* **HTML文件上传表单回退：**
   允许逐步增强，通过使用一个标准的HTML文件上传表单部件元素。
 * **跨站点的文件上传：**
   支持文件上传，跨站点的XMLHttpRequest或iframe重定向到不同的域。
@@ -60,15 +64,15 @@
 * [JavaScript的帆布斑点功能]（https://github.com/blueimp/JavaScript-Canvas-to-Blob） 2.0.6+（选配）
 * [引导CSS工具包]（https://github.com/twitter/bootstrap/） 2.3+（选配）
 
-jQuery UI的小部件厂是文件上传插件的基本要求，但没有任何其他的依赖非常轻巧。
+jQuery UI的小部件是文件上传插件的基本要求，但没有任何其他的依赖非常轻巧。
 
-jQuery的Iframe的运输是必需的[浏览器没有XHR支持文件上传]（https://github.com/blueimp/jQuery-File-Upload/wiki/Browser-support）。
+jQuery的Iframe运输是必需的[浏览器没有XHR支持文件上传](https://github.com/blueimp/jQuery-File-Upload/wiki/Browser-support)。
 
-UI版本的文件上传插件也需要JavaScript的模板引擎以及JavaScript的加载图片和JavaScript帆布斑点的功能（图像预览和调整功能）。
+在UI版本的文件上传插件也需要JavaScript的模板引擎以及JavaScript的加载图片和JavaScript帆布斑点的功能（图像预览和调整功能）。
 
-这些依赖被标记为可选的，没有他们作为基本的文件上传插件可用于UI版本的插件可以扩展到覆盖这些依赖关系替代方案。
+在这些依赖被标记为可选的，没有他们作为基本的文件上传插件可用于UI版本的插件可以扩展到覆盖这些依赖关系替代方案。
 
-Twitter的[引导]（https://github.com/twitter/bootstrap/） 工具包是建立与用户界面。
+在Twitter的[引导](https://github.com/twitter/bootstrap/)工具包是建立与用户界面。
 
 这使得基于CSS的，反应灵敏的现代浏览器的布局和花哨的过渡效果。
 
@@ -76,17 +80,17 @@ Twitter的[引导]（https://github.com/twitter/bootstrap/） 工具包是建立
 
 这两个组件是可选的，不是必需的。
 
-该库还包括jQuery的XDomainRequest运输插件]（https://github.com/blueimp/jQuery-File-Upload/blob/master/js/cors/jquery.xdr-transport.js），这使得跨域AJAX请求（GET和POST只）在Microsoft Internet Explorer> = 8。
+该库还包括jQuery的[XDomainRequest运输插件](https://github.com/blueimp/jQuery-File-Upload/blob/master/js/cors/jquery.xdr-transport.js)，这使得跨域AJAX请求（GET和POST）Microsoft Internet Explorer> = 8。
 
-然而，XDomainRequest对象不支持文件上传和插件只为跨域请求所使用的[演示]（http://blueimp.github.io/jQuery-File-Upload/），删除上传的文件演示文件上传服务。
+然而，XDomainRequest对象不支持文件上传和插件只为跨域请求所使用的[演示](http://blueimp.github.io/jQuery-File-Upload/)，删除上传的文件演示文件上传服务。
 
-[跨域文件上传]（https://github.com/blueimp/jQuery-File-Upload/wiki/Cross-domain-uploads）
+[跨域文件上传](https://github.com/blueimp/jQuery-File-Upload/wiki/Cross-domain-uploads)
 
-使用[IFRAME运输插件]（https://github.com/blueimp/jQuery-File-Upload/blob/master/js/jquery.iframe-transport.js）需要重新回到原始服务器检索上传结果。 
+使用[IFRAME运输插件](https://github.com/blueimp/jQuery-File-Upload/blob/master/js/jquery.iframe-transport.js)需要重新回到原始服务器检索上传结果。 
 
-[例如执行]（https://github.com/blueimp/jQuery-File-Upload/blob/master/js/main.js）
+[例如执行](https://github.com/blueimp/jQuery-File-Upload/blob/master/js/main.js)
 
-使得使用[result.html]（https://github.com/blueimp/jQuery-File-Upload/blob/master/cors/result.html）起源服务器作为静态重定向页面。
+使得使用[result.html](https://github.com/blueimp/jQuery-File-Upload/blob/master/cors/result.html)起源服务器作为静态重定向页面。
 
 ## 浏览器
 
