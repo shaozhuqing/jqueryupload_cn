@@ -1,6 +1,6 @@
 # jQuery文件上传插件
 # 演示
-[演示文件上传](http://blueimp.github.io/jQuery-File-Upload/)
+[演示 jquery文件上传](http://blueimp.github.io/jQuery-File-Upload/)
 
 ## 说明
 文件上传多个文件选择，拖放支持，进度条，验证和预览图像，音频和视频的jQuery部件。
@@ -99,10 +99,10 @@ jQuery的Iframe运输是必需的[浏览器没有XHR支持文件上传](https://
 
 ### 支持的功能
 每个浏览器版本支持的功能的详细介绍，
-请看[扩展浏览器的支持信息]（https://github.com/blueimp/jQuery-File-Upload/wiki/Browser-support）。
+请看[扩展浏览器的支持信息](https://github.com/blueimp/jQuery-File-Upload/wiki/Browser-support)。
 
 ## 许可证
-[MIT许可]（http://www.opensource.org/licenses/MIT）下发布。
+[MIT许可](http://www.opensource.org/licenses/MIT)下发布。
 
 ## 捐款
 jQuery的文件上传是免费软件，但你可以捐款支持插件翻译者：
