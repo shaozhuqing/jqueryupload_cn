@@ -9,17 +9,6 @@
 
 工程与任何服务器端平台（PHP，Python和Ruby on Rails的，java，Node.js，Go等），支持标准的HTML表单文件上传。
 
-## 设定
-* [如何设置在您的网站插件](https://github.com/blueimp/jQuery-File-Upload/wiki/Setup)
-* [如何只使用基本的插件(最小安装指南)](https://github.com/blueimp/jQuery-File-Upload/wiki/Basic-plugin)
-## 支持
-* **[论坛](https://groups.google.com/d/forum/jquery-fileupload)**
-
-**支持请求** 和 **一般性讨论** 关于文件上传插件可以发布的官方[论坛](https://groups.google.com/d/forum/jquery-fileupload)。
-如果您的问题没有直接关系的文件上传插件，你可能有一个更好的机会，得到的答复张贴到堆栈溢出(http://stackoverflow.com/questions/tagged/blueimp+jquery+file-upload)。
-
-* 缺陷和功能要求 **错误** 和 **[特性要求，可报告使用的问题跟踪](https://github.com/blueimp/jQuery-File-Upload/issues)** 。
-请阅读[发出指引](https://github.com/blueimp/jQuery-File-Upload/blob/master/CONTRIBUTING.md)，然后再发布。
 
 # 特点
 * **多文件上传：**
@@ -76,7 +65,7 @@ jQuery的Iframe运输是必需的[浏览器没有XHR支持文件上传](https://
 
 这使得基于CSS的，反应灵敏的现代浏览器的布局和花哨的过渡效果。
 
-该演示还包括[blueimp画廊]（https://github.com/blueimp/Gallery）。
+该演示还包括[blueimp画廊](https://github.com/blueimp/Gallery)。
 
 这两个组件是可选的，不是必需的。
 
@@ -84,13 +73,9 @@ jQuery的Iframe运输是必需的[浏览器没有XHR支持文件上传](https://
 
 然而，XDomainRequest对象不支持文件上传和插件只为跨域请求所使用的[演示](http://blueimp.github.io/jQuery-File-Upload/)，删除上传的文件演示文件上传服务。
 
-[跨域文件上传](https://github.com/blueimp/jQuery-File-Upload/wiki/Cross-domain-uploads)
+[跨域文件上传](https://github.com/blueimp/jQuery-File-Upload/wiki/Cross-domain-uploads)使用[IFRAME运输插件](https://github.com/blueimp/jQuery-File-Upload/blob/master/js/jquery.iframe-transport.js)需要重新回到原始服务器检索上传结果。 
 
-使用[IFRAME运输插件](https://github.com/blueimp/jQuery-File-Upload/blob/master/js/jquery.iframe-transport.js)需要重新回到原始服务器检索上传结果。 
-
-[例如执行](https://github.com/blueimp/jQuery-File-Upload/blob/master/js/main.js)
-
-使得使用[result.html](https://github.com/blueimp/jQuery-File-Upload/blob/master/cors/result.html)起源服务器作为静态重定向页面。
+[例如执行](https://github.com/blueimp/jQuery-File-Upload/blob/master/js/main.js) 使得使用[result.html](https://github.com/blueimp/jQuery-File-Upload/blob/master/cors/result.html)起源服务器作为静态重定向页面。
 
 ## 浏览器
 
